@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Afeef
+# Hi there 👋, I'm Mohd Afeef Ali
 
 💻 **Full-Stack Developer | MERN | SuiteScript Developer**  
 🚀 Passionate about building scalable web apps and solving real-world problems.
